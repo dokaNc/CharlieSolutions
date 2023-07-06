@@ -7,7 +7,7 @@
 ```
 
 ```
-[HTTPS] https://github.com/dokaNc/CharlieSolutions.git
+[HTTPS] git clone https://github.com/dokaNc/CharlieSolutions.git
 ```
 
 ```
